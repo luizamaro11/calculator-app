@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <title>Frontend Mentor | Calculator app</title>
+</head>
+<body>
+
+    <article class="title">
+        <h1>Calc</h1>
+
+        theme
+        <div>
+            <input type="range" name="theme" id="theme" min="0" max="2"><span>1 2 3</span>
+        </div>
+
+    </article>
+
+    <article class="result">
+        <span class="result_calc">0</span>
+    </article>
+
+    <section class="calculator">
+        <article>
+            <button class="number" data-number="7">7</button>
+            <button class="number" data-number="8">8</button>
+            <button class="number" data-number="9">9</button>
+            <button class="button_del">del</button>
+        </article>
+
+        <article>
+            <button class="number" data-number="4">4</button>
+            <button class="number" data-number="5">5</button>
+            <button class="number" data-number="6">6</button>
+            <button class="operation" data-operation="addition">+</button>
+        </article>
+
+        <article>
+            <button class="number" data-number="1">1</button>
+            <button class="number" data-number="2">2</button>
+            <button class="number" data-number="3">3</button>
+            <button class="operation" data-operation="subtraction">-</button>
+        </article>
+
+        <article>
+            <button class="dot">.</button>
+            <button class="number" data-number="0">0</button>
+            <button class="operation" data-operation="division">/</button>
+            <button class="operation" data-operation="multiplication">x</button>
+        </article>
+
+        <article>
+            <button class="reset">reset</button>
+            <button class="equal_to">=</button>
+        </article>
+    </section>
+
+    <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+        Coded by <a href="#">Luiz Henrique Amaro Brito</a>.
+    </div>
+
+    <script src="./src/js/script.js"></script>
+</body>
+</html>

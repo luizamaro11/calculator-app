@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+}
+
+/*:root {
+    --dark-blue-header: hsl(217, 28%, 15%);
+    --dark-blue-main: hsl(218, 28%, 13%);
+    --dark-blue-footer: hsl(216, 53%, 9%);
+    --dark-blue-feedback: hsl(219, 30%, 18%);
+    --white-color: hsl(0, 0%, 100%);
+    --color-paragraph: hsl(0, 0%, 57%);
+}*/
+
+/* theme one */
+
+#theme {
+    width: 100%;
+    height: 20px;
+    -webkit-appearance: none;
+}
+
+body {
+    background-color: hsl(222, 26%, 31%);
+}
+
+.title {
+    color: #fff;
+    font-size: 32px;
+    margin: 6% auto 5px auto;
+    width: 510px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title div {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.title div span {
+    justify-content: space-between;
+}
+
+/* Resultado do calculo */
+.result {
+    background-color: hsl(224, 36%, 15%);
+    color: #fff;
+    text-align: right;
+    width: 510px;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 30px 0 30px 0;
+}
+
+.result .result_calc {
+    padding-right: 20px;
+    font-size: 32px;
+}
+
+.calculator {
+    width: 510px;
+    background-color: hsl(223, 31%, 20%);
+    margin: 0 auto;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.calculator article {
+    padding: 20px 0 0 20px;
+}
+
+.calculator article:last-child {
+    padding-bottom: 20px;
+
+}
+
+.calculator article:last-child button {
+    width: calc(50% - 21px);
+}
+
+.calculator article button:last-child {
+    margin-right: 0;
+}
+
+.calculator article button {
+    width: 100px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-right: 20px;
+    font-size: 32px;
+    -webkit-box-shadow: 0px 3px 1px #c0c0c0;
+    -moz-box-shadow: 0px 3px 1px #c0c0c0;
+    box-shadow: 0px 3px 1px #c0c0c0;
+
+}
+
+.calculator .button_del {
+    background-color: hsl(225, 21%, 49%);
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+    -moz-box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+    box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+}
+.calculator .reset {
+    background-color: hsl(225, 21%, 49%);
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+    -moz-box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+    box-shadow: 0px 3px 1px hsl(224, 28%, 35%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
