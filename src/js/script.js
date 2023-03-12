@@ -218,21 +218,6 @@ theme.addEventListener("change", function(e) {
 
 function alterTheme(valueTheme) {
 
-    // --background-body: hsl(222, 26%, 31%);
-    // --color-text: #fff;
-    // --background-result: hsl(224, 36%, 15%);
-    // --background-calculator: hsl(223, 31%, 20%);
-    // --background-button: hsl(30, 25%, 89%);
-    // --shadow-button: hsl(28, 16%, 65%);
-    // --background-button-del: hsl(225, 21%, 49%);
-    // --background-button-reset: hsl(225, 21%, 49%);
-    // --shadow-button-del: hsl(224, 28%, 35%);
-    // --shadow-button-reset: hsl(224, 28%, 35%);
-    // --background-button-equal: hsl(6, 63%, 50%);
-    // --shadow-button-equal: hsl(6, 70%, 34%);
-
-    console.log(root, valueTheme);
-
     if (valueTheme == 1) {
         root.style.setProperty('--background-body', 'hsl(222, 26%, 31%)');
         root.style.setProperty('--color-text', '#fff');

@@ -50,7 +50,7 @@
     height: 18px;
     border-radius: 50%;
 
-    background: hsl(6, 63%, 50%);
+    background: var(--background-button-equal);
     cursor: pointer;
 }
 
@@ -59,7 +59,7 @@
     height: 18px;
     border-radius: 50%; 
 
-    background: hsl(6, 63%, 50%);
+    background: var(--background-button-equal);
     cursor: pointer;
 }
 
