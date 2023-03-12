@@ -28,7 +28,9 @@ Users should be able to:
 ![desktop theme one](./design/desktop-design-themeOne-luiz.png)
 ![desktop theme two](./design/desktop-design-themeTwo-luiz.png)
 ![desktop theme Tree](./design/desktop-design-themeTree-luiz.png)
-<!-- ![Completed mobile project](./design/mobile-design-complete-luiz.png) -->
+![mobile theme one](./design/mobile-design-themeOne-luiz.png)
+![mobile theme two](./design/mobile-design-themeTwo-luiz.png)
+![mobile theme tree](./design/mobile-design-themeTree-luiz.png)
 
 ### Links
 
@@ -46,6 +48,7 @@ Users should be able to:
 - responsive CSS with media query
 - javascript
 - viteJs for build project
+- npm
 
 ### What I learned
 

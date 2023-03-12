@@ -189,3 +189,48 @@ body {
     -moz-box-shadow: 0px 3px 1px var(--shadow-button-equal);
     box-shadow: 0px 3px 1px var(--shadow-button-equal);
 }
+
+@media (max-width: 375px) {
+    body {
+        width: 100%;
+        height: 667px;
+    }
+
+    .title {
+        font-size: 20px;
+        margin-top: 42px;
+    }
+
+    .title > span {
+        padding-left: 65px;
+    }
+
+    .theme {
+        width: 70px;
+    }
+
+    .result {
+        height: 88px;
+        margin-bottom: 24px;
+    }
+
+    .result .result_calc {
+        font-size: 20px;
+    }
+
+    .calculator {
+        height: 420px;
+    }
+
+    .calculator, .title, .result {
+        /* margin-left: 24px; */
+        /* margin-right: 24px; */
+        width: 327px;
+    }
+
+    .calculator article button {
+        width: 60px;
+        height: 48px;
+        font-size: 14px;
+    }
+}
