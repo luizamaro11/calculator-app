@@ -14,7 +14,7 @@ Esta é uma solução para o [desafio do aplicativo Calculadora no Frontend Ment
   - [Desenvolvimento continuo](#desenvolvimento-continuo)
 - [Autor](#luizamaro11)
 
-## Visão geral
+## Visao geral
 
 ### O desafio
 
@@ -54,7 +54,7 @@ Os usuários devem ser capazes de:
 
 Usei esse desafio para melhorar ainda mais minhas habilidades como desenvolvedor front-end.
 
-### Desenvolvimento contínuo
+### Desenvolvimento continuo
 
 As a continuation of my studies, I intend to take challenges with css animations and their keyframes.
 
