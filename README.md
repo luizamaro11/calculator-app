@@ -4,14 +4,14 @@ Esta é uma solução para o [desafio do aplicativo Calculadora no Frontend Ment
 
 ## Table of contents
 
-- [Visão geral](#visao-geral)
+- [Visao geral](#visao-geral)
   - [O desafio](#o-desafio)
   - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construido com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento-continuo)
+  - [Desenvolvimento continuo](#desenvolvimento-continuo)
 - [Autor](#luizamaro11)
 
 ## Visão geral
