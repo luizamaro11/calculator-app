@@ -12,7 +12,7 @@ Esta é uma solução para o [desafio do aplicativo Calculadora no Frontend Ment
   - [Construido com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Desenvolvimento continuo](#desenvolvimento-continuo)
-- [Autor](#luizamaro11)
+- [Autor](#autor)
 
 ## Visao geral
 
