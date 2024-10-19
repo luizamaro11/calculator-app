@@ -1,29 +1,29 @@
-# Frontend Mentor - Calculator app solution
+# Frontend Mentor - Solução de aplicativo de calculadora
 
-This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio do aplicativo Calculadora no Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas. 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Visão geral](#overview)
+  - [O desafio](#the-challenge)
+  - [Captura de tela](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#luizamaro11)
+- [Meu processo](#my-process)
+  - [Construido com](#built-with)
+  - [O que eu aprendi](#what-i-learned)
+  - [Desenvolvimento contínuo](#continued-development)
+- [Autor](#luizamaro11)
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- Visualizar o layout ideal para o site dependendo do tamanho da tela do seu dispositivo
+- Ver estados de foco para todos os elementos interativos na página
 
-### Screenshot
+### Captura de tela
 
 ![desktop theme one](./design/desktop-design-themeOne-luiz.png)
 ![desktop theme two](./design/desktop-design-themeTwo-luiz.png)
@@ -34,33 +34,37 @@ Users should be able to:
 
 ### Links
 
-- Solution only on local machine
+- Solução somente na máquina local
 
-## My process
+## Meu processo
 
-### Built with
+### Construido com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação semântica HTML5
+- Propriedades personalizadas CSS
 - Flexbox
 - CSS Grid
-- Mobile workflow
-- responsive CSS with media query
+- Fluxo de trabalho móvel
+- CSS responsivo com media query
 - javascript
-- viteJs for build project
+- viteJs para projeto de construção
 - npm
 
-### What I learned
+### O que eu aprendi
 
-I used this challenge to further improve my skills as a front-end developer.
+Usei esse desafio para melhorar ainda mais minhas habilidades como desenvolvedor front-end.
 
-### Continued development
+### Desenvolvimento contínuo
 
 As a continuation of my studies, I intend to take challenges with css animations and their keyframes.
 
 utility javascript modules and and advance more, more in javascript and also develop web pages using javascript for DOM manipulation and among other things.
 
-## Author
+Como continuação dos meus estudos, pretendo encarar desafios com animações css e seus keyframes.
+
+E avançar mais em javascript como os módulos javascript e também desenvolver páginas web usando javascript para manipulação de DOM e entre outras coisas.
+
+## Autor
 
 - github - [@luizamaro11](https://github.com/luizamaro11)
 - Frontend Mentor - [@luizamaro11](https://www.frontendmentor.io/profile/luizamaro11)
